@@ -5,8 +5,6 @@ TuBo version 1.0.0 10/10/2016
 
 ABOUT-
 
-**what is your problem git see i have made a change write here**
-
 TuBo is an artificially intelligent Tutor Bot that helps school kids solve simple math problems by guiding them in a step by step manner and thus aiding them reach till the answer without actully spoonfeeding the answer.This intelligent tutor even facilitates the student to check her obtained answer for correctness.
 
 
@@ -18,9 +16,8 @@ The user need to connect the bot accross the microsoft bot framework emulator or
 SMART FEARTUES-
 
 a)TuBo is a very smart bot and can teach a student how to solve operation problems with each step explained explicitly.
-b)It also accepts multiple operator queries and teaches the user as per the BODMAS rules.
 
-***because I'm learning github***
+b)It also accepts multiple operator queries and teaches the user as per the BODMAS rules.
 
 c)The user may even ask her problems in natural language and the bot will understand english statements quite well.
 
